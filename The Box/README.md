@@ -2,7 +2,7 @@
 脱出ゲーム
 ：部屋の中で隠れている道具を利用して、宝を探すゲーム
 
-## Download(:
+## Download(Android)
 https://github.com/JeongDalim/Unity/tree/master/The%20Box/APK
 
 * 初期画面
